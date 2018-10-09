@@ -39,3 +39,12 @@ Você pode ajudar:
 - Escrevendo textos;
 - Revisando os textos que ainda não foram publicados;
 - Divulgando o sites
+
+## Para rodar o site localmente
+
+Você precisa ter ruby, gem e bundle instalado na sua máquina.
+
+```
+bundle install
+jekyll serve -w --incremental
+```

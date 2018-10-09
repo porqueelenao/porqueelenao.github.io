@@ -1,0 +1,1 @@
+exclude: ['_config.yml', 'Gemfile', 'Gemfile.lock', 'README.md']
