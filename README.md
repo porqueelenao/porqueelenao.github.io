@@ -4,9 +4,11 @@ O site www.porqueelenão.com.br tem a intenção de ser uma ferramenta para
 convencer seus amigos e parentes do quanto o Bolsonaro seria um péssimo
 presidente.
 
-Durante essa campanha eleitoral a discussão sobre as propostas doBolsonaro não
+Durante essa campanha eleitoral a discussão sobre as propostas do Bolsonaro não
 aconteceram. Em parte por ele não ter participado dos debates e em parte por
-conta da tentativa de focar nos aspectos de preconceito da fala dele.
+conta da tentativa de focar nos aspectos de preconceito da fala dele. E vimos
+que isso não funcionou muito. O foco principal aqui deve ser o conteúdo do
+programa (ou a falta dele) do Bolsonaro.
 
 A ideia desse site é reunir vários textos simples, curtos e diretos para serem
 compartilhados nas redes sociais e pricipalmente no Whatsapp.
