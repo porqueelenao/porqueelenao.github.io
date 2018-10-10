@@ -38,7 +38,7 @@ Você pode ajudar:
 
 - Escrevendo textos;
 - Revisando os textos que ainda não foram publicados;
-- Divulgando o sites
+- Divulgando o site
 
 ## Para rodar o site localmente
 
