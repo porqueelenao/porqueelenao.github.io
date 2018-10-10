@@ -3,8 +3,8 @@ layout: default
 meta_description: Site que reúne e facilita compartilhamento de conteúdo que mostra como o Bolsonaro é um péssimo candidato para o Brasil.
 meta_keywords: elenao, elenuca
 ---
-{% for text in site.data.teste %}
-  {{ text.title }}
-<a href="whatsapp://send" data-text="{{ text.body }}" data-href="" class="wa_btn wa_btn_s">Compartilhar</a>
-  {{ text.body }}
+
+{% for article in site.data.articles %}
+  <h2>{{ article.title }}</h2>
+  <article>{{ article.body }}</article>
 {% endfor %}
